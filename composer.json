@@ -1,0 +1,20 @@
+{
+    "name": "identityonly/identity-auth",
+    "description": "Authentication services for IdentityOnly",
+    "authors": [
+        {
+            "name": "Justin Martin",
+            "email": "frozenfire@thefrozenfire.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "http://packages.identityonly.com"
+        }
+    ],
+    "type": "zend-module",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
