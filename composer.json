@@ -15,7 +15,6 @@
     ],
     "type": "zend-module",
     "require": {
-        "composer/installers": "~1.0",
-        "bacon/bacon-authentication": "dev-master"
+        "composer/installers": "~1.0"
     }
 }
